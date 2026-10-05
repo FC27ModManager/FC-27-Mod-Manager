@@ -14,8 +14,8 @@
 - Parallel mod index
 - .NET 11 runtime
 
+<img width="1300" height="372" alt="image" src="https://github.com/user-attachments/assets/5c8904d1-e20c-4409-992e-af83ffb0e54d" />
 
-<img width="516" height="387" alt="image" src="https://github.com/user-attachments/assets/7bf86fff-1801-4951-9526-5f7f42a8547c" />
 
 ## Key Features
 - Import .fifamod
@@ -34,7 +34,7 @@
 5. Notes in `files/notes/`.
 
 
-<img width="1300" height="372" alt="image" src="https://github.com/user-attachments/assets/5c8904d1-e20c-4409-992e-af83ffb0e54d" />
+<img width="516" height="387" alt="image" src="https://github.com/user-attachments/assets/7bf86fff-1801-4951-9526-5f7f42a8547c" />
 
 ## FAQ
 
