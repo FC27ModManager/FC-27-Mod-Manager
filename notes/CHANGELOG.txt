@@ -1,0 +1,3 @@
+/* rev-d7a21e-20261005 */
+CHANGELOG.txt
+2.1.2 sep 8 2026
